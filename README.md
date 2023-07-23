@@ -1,5 +1,5 @@
 # SimpleCacheDesign
-Implementation of a Simple Cache in Java
+###Implementation of a Simple Cache in Java
 
 
 Implemented a concrete subclass of ResponseCache
